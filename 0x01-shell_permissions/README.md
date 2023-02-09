@@ -17,3 +17,5 @@ task 8: adds execution permission to the owner, the group owner and the other us
 task 9: sets the permission to the file hello as follows: Owner: no permission at all, Group: no permission at all, Other users: all the permissions
 
 task 10: sets the mode of the file hello to '-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello'
+
+task 11: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
