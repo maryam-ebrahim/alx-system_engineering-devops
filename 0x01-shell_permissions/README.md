@@ -9,3 +9,5 @@ task 4: changes the owner of the file hello to the user betty
 task 5: creates an empty file called hello
 
 task 6: adds execute permission to the owner of the file hello
+
+task 7: adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
