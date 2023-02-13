@@ -8,3 +8,5 @@ task 7: displays the third line of the file iacta
 task 8: creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) cont       	aining the text Best School ending by a new line
 task 9: writes into the file ls_cwd_content the result of the command ls -la. If 	the file ls_cwd_content already exists, it should be overwritten. If the 	file ls_cwd_content does not exist, create it
 task 10: duplicates the last line of the file iacta
+task 11: deletes all the regular files (not the directories) with a .js extensin 	 that are present in the current directory and all its subfolders
+
