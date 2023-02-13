@@ -22,3 +22,6 @@ task 21: removes all letters c and C from input
 task 22: reverse its input
 task 23: displays all users and their home directories, sorted by users
 task 24: finds all empty files and directories in the current directory and all 	 sub-directories
+task 25: lists all the files with a .gif extension in the current directory and 	 all its sub-directories
+task 26: decodes acrostics that use the first letter of each line
+task 27: parses web servers logs in TSV format as input and displays the 11 host	 s or IP addresses which did the most requests
