@@ -11,3 +11,4 @@ task 10: duplicates the last line of the file iacta
 task 11: deletes all the regular files (not the directories) with a .js extensin 	 that are present in the current directory and all its subfolders
 task 12: counts the number of directories and sub-directories in the current dir	 ectory
 task 13: displays the 10 newest files in the current directory
+task 14: takes a list of words as input and prints only words that appear exactl	 y once
