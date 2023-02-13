@@ -21,3 +21,4 @@ task 20: Replace all characters A and c from input to Z and e respectively
 task 21: removes all letters c and C from input
 task 22: reverse its input
 task 23: displays all users and their home directories, sorted by users
+task 24: finds all empty files and directories in the current directory and all 	 sub-directories
